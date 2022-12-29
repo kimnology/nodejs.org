@@ -1,7 +1,7 @@
 [
   {
-    "code": "ar",
-    "localName": "العربية",
+    "locale": "ar",
+    "text": "العربية",
     "name": "Arabic",
     "langDir": "rtl",
     "dateFormat": "YYYY.MM.DD",
@@ -9,8 +9,8 @@
     "enabled": false
   },
   {
-    "code": "ca",
-    "localName": "Catalan",
+    "locale": "ca",
+    "text": "Catalan",
     "name": "Catalan",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -18,8 +18,8 @@
     "enabled": false
   },
   {
-    "code": "de",
-    "localName": "Deutsch",
+    "locale": "de",
+    "text": "Deutsch",
     "name": "German",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -27,8 +27,8 @@
     "enabled": false
   },
   {
-    "code": "he",
-    "localName": "עברית",
+    "locale": "he",
+    "text": "עברית",
     "name": "Hebrew",
     "langDir": "rtl",
     "dateFormat": "DD.MM.YYYY",
@@ -36,8 +36,8 @@
     "enabled": false
   },
   {
-    "code": "en",
-    "localName": "English",
+    "locale": "en",
+    "text": "English",
     "name": "English",
     "langDir": "ltr",
     "dateFormat": "MM.DD.YYYY",
@@ -45,8 +45,8 @@
     "enabled": true
   },
   {
-    "code": "es",
-    "localName": "Español",
+    "locale": "es",
+    "text": "Español",
     "name": "Spanish",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -54,8 +54,8 @@
     "enabled": false
   },
   {
-    "code": "fa",
-    "localName": "زبان فارسی",
+    "locale": "fa",
+    "text": "زبان فارسی",
     "name": "Persian",
     "langDir": "rtl",
     "dateFormat": "YYYY.MM.DD",
@@ -63,8 +63,8 @@
     "enabled": false
   },
   {
-    "code": "fr",
-    "localName": "Français",
+    "locale": "fr",
+    "text": "Français",
     "name": "French",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -72,8 +72,8 @@
     "enabled": true
   },
   {
-    "code": "it",
-    "localName": "Italiano",
+    "locale": "it",
+    "text": "Italiano",
     "name": "Italian",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -81,8 +81,8 @@
     "enabled": false
   },
   {
-    "code": "ja",
-    "localName": "日本語",
+    "locale": "ja",
+    "text": "日本語",
     "name": "Japanese",
     "langDir": "ltr",
     "dateFormat": "YYYY.MM.DD",
@@ -90,8 +90,8 @@
     "enabled": false
   },
   {
-    "code": "ka",
-    "localName": "ქართული",
+    "locale": "ka",
+    "text": "ქართული",
     "name": "Georgian",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -99,8 +99,8 @@
     "enabled": false
   },
   {
-    "code": "ko",
-    "localName": "한국어",
+    "locale": "ko",
+    "text": "한국어",
     "name": "Korean",
     "langDir": "ltr",
     "dateFormat": "YYYY.MM.DD",
@@ -108,8 +108,8 @@
     "enabled": false
   },
   {
-    "code": "pt-br",
-    "localName": "Português do Brasil",
+    "locale": "pt-br",
+    "text": "Português do Brasil",
     "name": "Brazilian Portuguese",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -117,8 +117,8 @@
     "enabled": false
   },
   {
-    "code": "ro",
-    "localName": "limba română",
+    "locale": "ro",
+    "text": "limba română",
     "name": "Romanian",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -126,8 +126,8 @@
     "enabled": false
   },
   {
-    "code": "ru",
-    "localName": "Русский",
+    "locale": "ru",
+    "text": "Русский",
     "name": "Russian",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -135,8 +135,8 @@
     "enabled": false
   },
   {
-    "code": "tr",
-    "localName": "Türkçe",
+    "locale": "tr",
+    "text": "Türkçe",
     "name": "Turkish",
     "langDir": "rtl",
     "dateFormat": "DD.MM.YYYY",
@@ -144,8 +144,8 @@
     "enabled": false
   },
   {
-    "code": "uk",
-    "localName": "Українська",
+    "locale": "uk",
+    "text": "Українська",
     "name": "Ukrainian",
     "langDir": "ltr",
     "dateFormat": "DD.MM.YYYY",
@@ -153,8 +153,8 @@
     "enabled": false
   },
   {
-    "code": "zh-cn",
-    "localName": "简体中文",
+    "locale": "zh-cn",
+    "text": "简体中文",
     "name": "Simplified Chinese",
     "langDir": "ltr",
     "dateFormat": "YYYY/MM/DD",
@@ -162,8 +162,8 @@
     "enabled": true
   },
   {
-    "code": "zh-tw",
-    "localName": "繁體中文",
+    "locale": "zh-tw",
+    "text": "繁體中文",
     "name": "Traditional Chinese",
     "langDir": "ltr",
     "dateFormat": "YYYY/MM/DD",

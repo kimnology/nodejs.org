@@ -1,3 +1,4 @@
+import i18nData from './i18n/locales.json';
 import React from 'react';
 import { useRouter } from 'next/router';
 import { useConfig } from 'nextra-theme-docs';
@@ -52,8 +53,7 @@ const config: DocsThemeConfig = {
   useNextSeoProps() {
     return {};
   },
-  // @TODO: Add full i18n configuration from a JSON file
-  i18n: [{ locale: 'en', text: 'English' }],
+  i18n: i18nData,
 };
 
 export default config;
